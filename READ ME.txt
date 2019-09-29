@@ -1,8 +1,0 @@
-'Python_Code for importing data ' contains the code to import data from yahoo news feed
-
-'Output' and cleaned data file are also placed in the same folder.
-
-----------------------------------------------------------------------------
-'IPYNB File' will be executed and viewed on the jupyter notebook(Python Editor)
-
--------------------------------------------------------------------------
